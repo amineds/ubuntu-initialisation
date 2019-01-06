@@ -10,7 +10,7 @@ exit
 #Install VIM
 sudo apt install vim
 
-#Install Netstat
+#Install Net-Tools
 sudo apt install net-tools
 
 
