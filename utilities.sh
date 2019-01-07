@@ -13,4 +13,7 @@ sudo apt install vim
 #Install Net-Tools
 sudo apt install net-tools
 
+#Install PostgreSql client
+sudo apt install postgresql-client-common
+
 
